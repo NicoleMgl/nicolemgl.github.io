@@ -25,7 +25,7 @@ html {
 body {
     width: 60%;
     margin: auto;
-    background-image: url(images/BG.png);
+    background-image: url(BG.png);
     background-position: top;
     background-size: cover;
     background-repeat: no-repeat;
@@ -240,7 +240,7 @@ ul {
 /*-------- Footer --------*/
 
 .footer {
-    background-image: url(images/github_large_proper.png);
+    background-image: url(github_large_proper.png);
     background-repeat: no-repeat;
     background-position: right top;
     background-size: 250px;
