@@ -146,6 +146,8 @@ ul {
 }
 .face {
     float: right;
+    right: 0;
+    margin-right: 10%;
 }
 /*-------- Skills --------*/
 
