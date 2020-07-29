@@ -144,7 +144,9 @@ ul {
     right: 0; 
     margin: auto;
 }
-
+.face {
+    float: right;
+}
 /*-------- Skills --------*/
 
 .skills {
